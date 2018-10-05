@@ -1,0 +1,33 @@
+tests directory:
+================
+
+nnetTest.m:
+-----------
+Runs all the m-files containing
+test cases
+
+test_nnet_win32.pl:
+-------------------
+Is a perl script. To run this, you must have
+installed a perl interpreter. I tested it with
+the ActiveState Perl for Win32 systems.
+Currently, it does nothing else as nnetTest.m does.
+
+
+
+subdirectory MLP:
+=================
+
+MLPScripts.m:
+-------------
+to run some very basic tests please run
+MLPScripts. This will run all scripts
+inside the subdirectories "example1" and
+"example2".
+If no error occur, the first test is passed :-)
+
+nnetTestMLP.m
+----------
+these tests don't run on the windows version of octave-forge.
+Please use a linux/unix version. I tested it on octave-3.0.0
+compiled on ubuntu.
