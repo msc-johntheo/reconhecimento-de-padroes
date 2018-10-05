@@ -12,7 +12,7 @@ Disciplina de Reconhecimento de Padrões (RPD-0041) para alunos de mestrado e do
 - Análise e Comparação de Desempenho
 - Modelos de Markov (Hidden Markov Models)
 
-Aqui você encontra o [material teórico](https://github.com/msc-johntheo/reconhecimento-de-padroes/aulas) da disciplina, [listas de exercícios](https://github.com/msc-johntheo/reconhecimento-de-padroes/listas) e [ferramentas de apoio](https://github.com/msc-johntheo/reconhecimento-de-padroes/apoio).
+Aqui você encontra o [material teórico](https://github.com/msc-johntheo/reconhecimento-de-padroes/tree/master/aulas) da disciplina, [listas de exercícios](https://github.com/msc-johntheo/reconhecimento-de-padroes/tree/master/listas) e [ferramentas de apoio](https://github.com/msc-johntheo/reconhecimento-de-padroes/tree/master/apoio).
 
 [Site da disciplina](https://sites.google.com/site/andrelazzaretti/ensino-p%C3%B3s-gradua%C3%A7%C3%A3o/reconhecimento-de-padr%C3%B5es-cpgei)
 
